@@ -1,0 +1,43 @@
+
+body{color:black;}
+
+// <weight>: Use a value from 200 to 700
+// <uniquifier>: Use a unique and descriptive class name
+
+.stack-sans-text-<uniquifier> {
+  font-family: "Stack Sans Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 50px;
+}
+
+
+.wrap p{
+	font-family:, sans-serif;
+	font-display: ;
+	color: #black;
+	font-size: 14px;
+	line-height: 1.2em;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+figcaption {
+  text-align: center;
+}
+body{
+	padding-left:25%;
+	padding-right: 25%;
+	background-color:lightgoldenrodyellow;
+}
+
+h1{font-size: 40px;
+}
+
+h2{font-family:"Helvetica",sans-serif;}
+	font-size: 15px;
+}
